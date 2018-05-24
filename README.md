@@ -1,1 +1,1 @@
-il faut ajouter tout les fichiers image et sons avec le main
+il faut ajouter tout les fichiers bmp,wav,ico,mp3 avec le main
